@@ -1,14 +1,3 @@
-# Json-Clojure
-
-Basic working with JSON file in Clojure
-
-**Requirement**: leningen
-
-File name: grades.txt
-
-*project.clj: where to import extra dependency (cheshire for JSON)
-*core.clj: main project code. 
-```clojure
 (ns csci3055u-a3.core
   (:require [cheshire.core :as cc]))
 
@@ -41,4 +30,4 @@ File name: grades.txt
           "Average: " (format "%.2f" avg) "\n"
           "Best student: " (get-in best_stud [:name])))))
 
-```
+
