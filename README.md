@@ -1,6 +1,6 @@
 # Json-Clojure
 
-Basic working with JSON file in Clojure
+Basic work with JSON file in Clojure
 
 **Requirement**: leningen
 
