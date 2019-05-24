@@ -1,6 +1,6 @@
 # Json-Clojure
 
-Basic work with JSON file in Clojure
+Sipmle project working with JSON file in Clojure environement. 
 
 **Requirement**: leningen if working on Windows
 
