@@ -2,7 +2,7 @@
 
 Basic work with JSON file in Clojure
 
-**Requirement**: leningen
+**Requirement**: leningen if working on Windows
 
 File name: grades.txt
 
